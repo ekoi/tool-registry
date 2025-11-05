@@ -4,6 +4,15 @@ Summary
 -------
 Tool Registry is a reference implementation and specification to publish, curate, and expose value‑adding services, workflows, and tools in a managed registry. The service exposes a small HTTP API that reads tool descriptors (JSON files) from a configured directory and returns listings or single tool metadata.
 
+Hosted service / Live demo
+-------------------------
+
+The current service is hosted and the OpenAPI docs are available at:
+
+https://tool-registry.labs.dansdemo.nl/docs
+
+Use the URL above to access the interactive API documentation (Swagger UI) and try the endpoints directly.
+
 Functionalities
 ---------------
 - List all supported tools:
